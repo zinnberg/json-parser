@@ -8,5 +8,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "js-type-checker": "^1.0.0"
   }
 }
